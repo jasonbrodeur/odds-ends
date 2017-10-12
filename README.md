@@ -1,2 +1,2 @@
 # odds-ends
-Odds &amp; Ends
+convert_videos.m - bulk apply h.264 compression to all videos in directory
